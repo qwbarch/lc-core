@@ -1,6 +1,6 @@
 {
     "name": "FSharpCore",
-    "version_number": "8.0",
+    "version_number": "8.0.0",
     "website_url": "https://fsharp.org",
     "description": "F# is an open-source, cross-platform programming language that makes it easy to write succinct, performant, robust, and practical code.",
     "dependencies": []
