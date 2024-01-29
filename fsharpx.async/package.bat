@@ -7,4 +7,4 @@ powershell Compress-Archive^
           "manifest.json",^
           "README.md",^
           "icon.png"^
-    -DestinationPath "FSharp.Control.FSharpx.Async.zip"
+    -DestinationPath "FSharpx.Async.zip"
