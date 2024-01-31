@@ -1,7 +1,0 @@
-{
-    "name": "FSharpControlAsyncSeq",
-    "version_number": "3.2.1",
-    "website_url": "https://github.com/fsprojects/FSharp.Control.AsyncSeq",
-    "description": "FSharp.Control.AsyncSeq is a collection of asynchronous programming utilities for F#.",
-    "dependencies": []
-}

@@ -1,7 +1,0 @@
-{
-    "name": "FSharpPlus",
-    "version_number": "1.5.0",
-    "website_url": "https://github.com/fsprojects/FSharpPlus",
-    "description": "F#+ is a base library that aims to take F# to the next level of functional programming.",
-    "dependencies": []
-}

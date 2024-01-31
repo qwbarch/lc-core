@@ -2,9 +2,8 @@
 
 powershell Compress-Archive^
     -Force^
-    -Path "BepInEx/core/",^
-          "LICENSE",^
+    -Path "BepInEx/core",^
           "manifest.json",^
           "README.md",^
           "icon.png"^
-    -DestinationPath "FSharpx.Async.zip"
+    -DestinationPath "BarchLib.zip"

@@ -1,7 +1,0 @@
-{
-    "name": "FSharpxAsync",
-    "version_number": "1.13.2",
-    "website_url": "https://github.com/fsprojects/FSharpx.Async",
-    "description": "FSharpx.Async is a collection of asynchronous programming utilities for F#.",
-    "dependencies": []
-}
