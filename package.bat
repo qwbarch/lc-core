@@ -2,7 +2,7 @@
 
 powershell Compress-Archive^
     -Force^
-    -Path "BepInEx/core",^
+    -Path "BepInEx",^
           "manifest.json",^
           "README.md",^
           "icon.png"^
