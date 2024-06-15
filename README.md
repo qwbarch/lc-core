@@ -9,5 +9,5 @@ This currently contains the following:
 - [FSharpPlus](https://github.com/fsprojects/FSharpPlus) - 1.5.0
 - [FSharpx.Async](https://github.com/fsprojects/FSharpx.Async) - 1.13.2
 - [NAudio](https://github.com/naudio/NAudio) - 2.2.1
-- [NAudio.Lame](https://github.com/Corey-M/NAudio.Lame) - 2.1.0
+- [NAudio.Lame](https://github.com/Corey-M/NAudio.Lame) - 2.1.0 (this package contains a [fork](https://github.com/qwbarch/NAudio.Lame)).
 - [UniTask](https://github.com/Cysharp/UniTask) - 2.5.0
